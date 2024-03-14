@@ -3,10 +3,10 @@ Welcome to my ECA5376 Auctions and Market Design Repository!
 
 I'm excited to share my exploration of the fascinating world of auctions, market design, and matching algorithms using Python. Whether you're a fellow student of ECA5376 at the National University of Singapore (NUS) or just curious about auction mechanisms and matching algorithms, you've come to the right place.
 
-#About
+#About-
 ECA5376 is a course I'm taking at NUS, focusing on auctions and market design. Throughout the course, I've delved into various auction mechanisms, their properties, and their applications in different contexts such as spectrum auctions, online advertising, and resource allocation.
 
-#Repository Overview
+#Repository-Overview
 In this repository, you'll find my implementations and analyses of:
 
 ##Auction Mechanisms: Explore classic auction formats such as English Auctions, Dutch Auctions, Vickrey Auctions, and more.
