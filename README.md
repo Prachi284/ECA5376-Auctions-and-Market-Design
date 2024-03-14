@@ -30,7 +30,7 @@ Contributions to this repository are welcome! Whether it's fixing bugs, optimizi
 
 **Contact**
 
-If you have any questions, suggestions, or feedback, feel free to reach out. You can contact me via email or through GitHub.
+If you have any questions, suggestions, or feedback, feel free to reach out. You can contact me via email(indiraprachi90@outlook.com) or through GitHub.
 
 Happy exploring and learning!
 
